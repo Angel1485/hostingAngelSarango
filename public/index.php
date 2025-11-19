@@ -28,7 +28,7 @@
 </body>
 
 <footer>
-    © 2025 - Mi sitio personal
+    © 2025 - Mi sitio personal - Angel Sarango
 </footer>
 
 </html>
